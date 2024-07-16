@@ -44,7 +44,7 @@ body.night {
   position: absolute;
   width: 220px;
   height: 40px;
-  background-color: #f4a6b8;
+  background-color: #bda6f4;
   border-radius: 0 100px 30px 100px;
   overflow: hidden;
   box-shadow: inset -10px -10px rgba(0, 0, 0, 0.2);
@@ -81,7 +81,7 @@ body.night {
   width: 20px;
   border-right: 20px solid transparent;
   border-left: 20px solid transparent;
-  border-top: 80px solid #f4a6b8;
+  border-top: 80px solid #bda6f4;
   height: 0;
   top: 15px;
   left: 60px;
@@ -94,7 +94,7 @@ body.night {
   width: 20px;
   border-right: 20px solid transparent;
   border-left: 20px solid transparent;
-  border-bottom: 80px solid #f18fa6;
+  border-bottom: 80px solid #bda6f4;
   height: 0;
   top: -45px;
   left: 60px;
@@ -107,7 +107,7 @@ body.night {
   width: 20px;
   border-right: 15px solid transparent;
   border-left: 15px solid transparent;
-  border-bottom: 35px solid #f4a6b8;
+  border-bottom: 35px solid #bda6f4;
   height: 0;
   left: -100px;
   top: 29px;
@@ -118,7 +118,7 @@ body.night {
   position: absolute;
   width: 20px;
   height: 25px;
-  background-color: #f4a6b8;
+  background-color: #bda6f4;
   top: -105px;
   left: -140px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
@@ -129,7 +129,7 @@ body.night {
   position: absolute;
   width: 20px;
   height: 25px;
-  background-color: #f18fa6;
+  background-color: #bda6f4;
   left: -80px;
   top: 35px;
   transform: skew(-55deg);
